@@ -60,5 +60,4 @@ begin_fill()
 circle(50, 360) # radius & angle
 end_fill()
 
-# quite with click
-exitonclick()
+done() # important to keep at the end!
