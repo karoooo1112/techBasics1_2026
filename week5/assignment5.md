@@ -1,5 +1,4 @@
 ### Assignment 5
-
 Refactoring is the process of restructuring an existing body of code to improve its internal structure and quality without altering its external behavior.
 
 This week we are going to refactor the code you have written! You can pick your assignment from week2 or week4 for this. 

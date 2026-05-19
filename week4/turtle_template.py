@@ -1,15 +1,19 @@
 ### Basic Turtle cheatsheet
 
-# import turtle
+# import libraries
 from turtle import *
+import random
 
 # initial setup: canvas size
 width = 400
 height = 400
-setup(width, height)
 
+
+setup(width, height)
 # turn off animation, comment it out to see the drawing process
 tracer(0, 0)
+# hide turtle cursor
+hideturtle()
 # set background color
 bgcolor('white') # You can either use color names
 # change the color of the lines
@@ -60,4 +64,5 @@ begin_fill()
 circle(50, 360) # radius & angle
 end_fill()
 
+update() # update canvas, important to keep right before done
 done() # important to keep at the end!

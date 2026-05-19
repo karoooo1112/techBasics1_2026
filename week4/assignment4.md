@@ -1,4 +1,4 @@
-## Assignment 3
+## Assignment 4
 **DUE 11 May Monday Noon**
 
 This week we want to make some generative art using Python!
