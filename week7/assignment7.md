@@ -12,6 +12,6 @@ At the end of the game, you shall display a simple leader board based on previou
 - Include try/except blocks into your code to practice error handling
 - Add a debugging flag to your submitted game and set it to `DEBUG = True`. This shall skip the main body of the game and only allow you to enter your name. In this case, a placeholder score/time will be saved just for testing purpose.
 
-You may choose whether to export the data as a TXT or Excel file or which method to read/write to files.
+You may choose whether to export the data as a TXT or CSV file or which method to read/write to files.
 
 
